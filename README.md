@@ -1,4 +1,4 @@
-# GPO-.exe-install-powershell
+# Deploy .exe software via GPO
 
 Script d'installation de ccleaner en PowerShell pour GPO (Peut être modifié pour n'importe quel .exe avec installation silencieuse)
 
